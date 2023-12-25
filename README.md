@@ -33,9 +33,12 @@ print("Number of words in the file = {}".format(num_words))
 ```
 ### OUTPUT:
 
-![Alt text](<Screenshot 2023-12-25 180904.png>)
-![Alt text](<Screenshot 2023-12-25 180925.png>)
-![Alt text](<Screenshot 2023-12-25 180944.png>)
+![image](https://github.com/23008344/Word-count/assets/145742655/bbc3b53b-5a3d-4dfc-9a61-c2bdace13f84)
+
+![image](https://github.com/23008344/Word-count/assets/145742655/263917c0-4566-4c32-b4b7-a1280febd04b)
+
+![image](https://github.com/23008344/Word-count/assets/145742655/b01526fd-0a00-484f-92c2-c84d18d83102)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
